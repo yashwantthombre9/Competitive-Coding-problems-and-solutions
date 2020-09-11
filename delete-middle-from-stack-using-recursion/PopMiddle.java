@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class Inheritance {
+public class PopMiddle{
     private static Stack<Integer> PopMiddle(Stack<Integer> stack,int middle){
          if(middle == 1)
          {
