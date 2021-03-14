@@ -6,8 +6,7 @@ class A{
     protected int age  ;
     protected String name;
     A(){
-        // System.out.println("A costructor!");
-        System.out.println("inside A constructor!");
+        System.out.println("A costructor!");
     }
  
     protected void setAge(int age){
